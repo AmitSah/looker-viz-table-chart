@@ -1,0 +1,16 @@
+{
+  "dataStudio": {
+    "name": "Simple Custom Bar Chart",
+    "logoUrl": "https://yourdomain.com/logo.png",
+    "company": "Your Company",
+    "description": "A simple, responsive bar chart for Looker Studio.",
+    "id": "simple-custom-bar-chart",
+    "resources": {
+      "js": ["script.js"],
+      "css": ["style.css"],
+      "html": "index.html"
+    },
+    "supportUrl": "https://yourdomain.com/support",
+    "privacyPolicyUrl": "https://yourdomain.com/privacy"
+  }
+}
