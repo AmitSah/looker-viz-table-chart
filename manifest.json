@@ -18,7 +18,8 @@
             "resource": {
                 "js": "https://amitsah.github.io/looker-viz-table-chart/viz-codelab.js",
                 "config": "https://amitsah.github.io/looker-viz-table-chart/viz-codelab.json",
-                "css": "https://amitsah.github.io/looker-viz-table-chart/viz-codelab.css"
+                "css": "https://amitsah.github.io/looker-viz-table-chart/viz-codelab.css",
+                "html": "index.html"
             }
         }
     ]
